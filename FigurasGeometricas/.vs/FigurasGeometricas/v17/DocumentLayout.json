@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\detpc\\source\\repos\\figurasgeometricas\\figurasgeometricas\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\detpc\\source\\repos\\figurasgeometricas\\figurasgeometricas\\pentagonoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\pentagonoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\detpc\\source\\repos\\figurasgeometricas\\figurasgeometricas\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\detpc\\source\\repos\\figurasgeometricas\\figurasgeometricas\\romboc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\romboc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\detpc\\source\\repos\\figurasgeometricas\\figurasgeometricas\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\figurasgeometricas\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A57A33-3DD1-4373-8375-D7BFFE7D00B3}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pentagono.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Pentagono.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Pentagono.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Pentagono.cs",
+              "RelativeToolTip": "FigurasGeometricas\\Pentagono.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:53:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PentagonoC.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\PentagonoC.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\PentagonoC.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\PentagonoC.cs",
+              "RelativeToolTip": "FigurasGeometricas\\PentagonoC.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:52:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rombo.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Rombo.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Rombo.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Rombo.cs",
+              "RelativeToolTip": "FigurasGeometricas\\Rombo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:37:16.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RomboC.cs",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\RomboC.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\RomboC.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\RomboC.cs",
+              "RelativeToolTip": "FigurasGeometricas\\RomboC.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:25:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rombo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Rombo.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Rombo.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Rombo.cs [Design]",
+              "RelativeToolTip": "FigurasGeometricas\\Rombo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:37:40.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Romboide.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Romboide.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Romboide.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Romboide.cs [Design]",
+              "RelativeToolTip": "FigurasGeometricas\\Romboide.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:37:04.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Form1.cs",
+              "ToolTip": "C:\\Users\\DETPC\\source\\repos\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs [Design]",
+              "RelativeToolTip": "FigurasGeometricas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:28:53.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe.config
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Rombo.resources
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Pentagono.resources
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Romboide.resources
+C:\Users\DETPC\source\repos\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Trapezoide.resources
