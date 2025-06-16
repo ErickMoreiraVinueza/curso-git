@@ -1,0 +1,15 @@
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\bin\Debug\ImplementacionAlgoritmos.exe.config
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\bin\Debug\ImplementacionAlgoritmos.exe
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\bin\Debug\ImplementacionAlgoritmos.pdb
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.csproj.AssemblyReference.cache
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.Form1.resources
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.Properties.Resources.resources
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.csproj.GenerateResource.cache
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.exe
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.pdb
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.exe.config
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.DDAForm.resources
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.Bresenham.resources
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.Circunferencia.resources
+C:\Users\DETPC\source\repos\ImplementacionAlgoritmos\ImplementacionAlgoritmos\obj\Debug\ImplementacionAlgoritmos.Relleno.resources
